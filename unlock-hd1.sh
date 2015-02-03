@@ -1,1 +1,1 @@
-sudo ntfs-3g /dev/sde2 /media/HD1
+sudo ntfs-3g /dev/$1 /media/HD1
