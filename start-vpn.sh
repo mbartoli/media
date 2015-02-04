@@ -1,1 +1,2 @@
-sudo openvpn --config /home/mike/Downloads/openvpn/Netherlands.ovpn
+cd /home/mike/openvpn
+sudo openvpn --config Netherlands.ovpn
