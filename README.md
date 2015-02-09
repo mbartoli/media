@@ -1,3 +1,3 @@
-# media
+media
 ==================
 Misc scripts
