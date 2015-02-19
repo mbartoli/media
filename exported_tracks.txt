@@ -1,3 +1,96 @@
+1424318563	Wish Me Luck	Klaus Badelt	The Time Machine (Original Motion Picture Soundtrack)	c8d0adaf-3de0-4aa4-9b12-5fe762392d84	74ba575f-3420-4d62-8e48-ac473d3c4282	
+1424318358	Professor Alexander Hartdegen	Klaus Badelt	The Time Machine (Original Motion Picture Soundtrack)	430d9d89-4aba-4b9e-ac50-185bf318dd0a	74ba575f-3420-4d62-8e48-ac473d3c4282	
+1424318101	Deep Blue	Dave Eggar	Sleep Volume 2	29387a19-ab12-4fdb-a055-2a4ee954db93	fe44e194-1933-4ee8-a54a-5b92b21dc7a2	
+1424317785	Clair de lune	Claude Debussy	Sleep Volume 2	ca512503-ea18-48d7-a427-dc8f590957ea	be50643c-0377-4968-b48c-47e06b2e2a3b	
+1424304544	Firewall	Bright Eyes	The People's Key	189ab169-6e9e-4d54-9b6f-8e4e30887fd2	78f797e3-4913-4026-aad0-1cd858bd735b	
+1424304326	Jejune Stars	Bright Eyes	The People's Key	41614042-e8cb-4a03-8249-5ef0b02f8ca2	78f797e3-4913-4026-aad0-1cd858bd735b	
+1424304087	Ladder Song	Bright Eyes	The People's Key	0458906e-7ca1-48ce-9e7c-86a919a9cdcb	78f797e3-4913-4026-aad0-1cd858bd735b	
+1424303850	Shell Games	Bright Eyes	The People's Key	e4d0b572-a73a-4187-bd60-8f52fdfcba71	78f797e3-4913-4026-aad0-1cd858bd735b	
+1424303594	Another Travelin' Song	Bright Eyes	I'm Wide Awake, It's Morning	3da0f3d3-0d03-4fd8-9e93-cfad25f11ba8	78f797e3-4913-4026-aad0-1cd858bd735b	
+1424303443	Road to Joy	Bright Eyes	I'm Wide Awake, It's Morning	7ef97209-c912-42cf-bd81-248883ae2407	78f797e3-4913-4026-aad0-1cd858bd735b	
+1424293794	Poison Oak	Bright Eyes	I'm Wide Awake, It's Morning	cb2db1d5-f763-41df-975b-f3609f4a2076	78f797e3-4913-4026-aad0-1cd858bd735b	
+1424293553	Lover I Don't Have to Love	Bright Eyes	Lifted or The Story Is in the Soil, Keep Your Ear to the Ground	c3cd206e-a86c-49e0-91df-d0e7d9a8aa06	78f797e3-4913-4026-aad0-1cd858bd735b	40fd1e21-60eb-338d-8407-7c16eb6de232
+1424293281	At the Bottom of Everything	Bright Eyes	I'm Wide Awake, It's Morning	ea5a5112-d621-4e2c-9ce9-2a7a80078ec4	78f797e3-4913-4026-aad0-1cd858bd735b	
+1424293071	High (feat. Danny Brown)	Freddie Gibbs	Piñata		21645c31-fe1c-45a4-955c-3e172b12c3f9	
+1424256429	Piñata (feat. Domo Genesis, G-Wiz, Casey Veggies, Sulaiman, Meechy Darko, Mac Miller)	Freddie Gibbs	Piñata		21645c31-fe1c-45a4-955c-3e172b12c3f9	
+1424256209	Shame (Feat. BJ The Chicago Kid)	Freddie Gibbs	Piñata		21645c31-fe1c-45a4-955c-3e172b12c3f9	
+1424255992	Knicks	Freddie Gibbs	Piñata		21645c31-fe1c-45a4-955c-3e172b12c3f9	
+1424255797	Deeper	Freddie Gibbs & Madlib	Piñata	72c8d759-1888-40e7-9384-caa7f36d5bf4		3dc71c63-6cce-4b86-b65b-22ed0b00c0ab
+1424255570	Harold’s	Freddie Gibbs	Piñata		21645c31-fe1c-45a4-955c-3e172b12c3f9	
+1424255395	High (feat. Danny Brown)	Freddie Gibbs	Piñata		21645c31-fe1c-45a4-955c-3e172b12c3f9	
+1424220735	My Whole Life	Teebs	Ardour	9c123eda-5a25-4b3e-95e7-562eedf4e0f5	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424220560	King Bathtub	Teebs	Ardour	71fde538-1688-4c46-bd5a-5c6e57cd30d9	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424220380	Felt Tip	Teebs	Ardour	d40c7149-4d5b-4f86-a917-19972b0d8e09	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424220225	Bern Rhythm	Teebs	Ardour	bdd09245-80c3-42a1-9e2c-0f5878e85697	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424220019	Gordon	Teebs	Ardour	d45640a0-000d-45be-a7d0-6028b355daf9	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424219797	Arthur's Birds	Teebs	Ardour	126ee0bb-24b1-4c52-b971-fb3ad62ec610	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424219692	Lakeshore Ave.	Teebs	Ardour	fd727efd-b234-4d30-b6f2-11516e3c8f45	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424219498	Wind Loop	Teebs	Ardour	c86517bd-9154-4206-9965-a2f27f043f77	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424219306	Burner	Teebs	Ardour	40069c4b-392a-4397-8a29-a4c1d01ea8f4	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424214581	Into the Black	Chromatics	Kill for Love	4d83fbe4-1a3c-4ea4-8060-c66a5000e6b3	0589aa4e-2138-4c8a-aaab-ef4a93779583	c5146892-6287-490b-97f3-72375f63868e
+1424214320	Life Round Here	James Blake	Overgrown	b0520194-5773-4a63-9d95-ff33da656063	8dc08b1f-e393-4f85-a5dd-300f7693a8b8	afcac2dc-3f65-48ec-8aac-b622348769a4
+1424213231	Moments	Teebs	Ardour	ff4eb813-de3d-4011-8e14-c8fd0b0d110d	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424213140	While You Doooo	Teebs	Ardour	9a5ded9f-c53a-4592-81a0-ed628a0b22f0	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424213008	Double Fifths	Teebs	Ardour	4c1608f0-f54f-492d-884b-fc2bfb22b6a9	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424212882	Bound Ball	Teebs	Ardour	4b9234ff-ae45-4f15-b02f-01af8a358528	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424212750	You've Changed	Teebs	Ardour	b67f2f97-74f6-4dd1-8489-8f33dc859595	5b6b10fb-514a-4802-8bd8-11dc00e23580	f5750d00-7a3a-43af-a16f-39b44b61cc24
+1424212239	Tropics	Teebs	The Tropics		5b6b10fb-514a-4802-8bd8-11dc00e23580	
+1424212135	Untitled	Teebs	The Tropics		5b6b10fb-514a-4802-8bd8-11dc00e23580	
+1424210897	Rains	Teebs	The Tropics		5b6b10fb-514a-4802-8bd8-11dc00e23580	
+1424210711	Clapstick	Teebs	The Tropics		5b6b10fb-514a-4802-8bd8-11dc00e23580	
+1424210537	Comes to Mind	Teebs	The Tropics		5b6b10fb-514a-4802-8bd8-11dc00e23580	
+1424210399	Splash	Teebs	The Tropics		5b6b10fb-514a-4802-8bd8-11dc00e23580	
+1424210139	Clutch	Teebs	The Tropics		5b6b10fb-514a-4802-8bd8-11dc00e23580	
+1424209945	Bern Rhythm	Teebs	Why Like This?	bdd09245-80c3-42a1-9e2c-0f5878e85697	5b6b10fb-514a-4802-8bd8-11dc00e23580	7e3a8f72-9eaf-4203-80c4-0ff299f1b519
+1424209705	Arthur's Birds	Teebs	Why Like This?	126ee0bb-24b1-4c52-b971-fb3ad62ec610	5b6b10fb-514a-4802-8bd8-11dc00e23580	7e3a8f72-9eaf-4203-80c4-0ff299f1b519
+1424209526	Why Like This?	Teebs	Why Like This?	dbab5469-a72a-494d-a70d-1ca9ee7ee522	5b6b10fb-514a-4802-8bd8-11dc00e23580	7e3a8f72-9eaf-4203-80c4-0ff299f1b519
+1424209376	Galaxy in Janaki	Flying Lotus	Cosmogramma	813143a5-b7f8-4c28-b218-e992295d4f27	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424209194	Table Tennis ft. Laura Darlington	Flying Lotus	Cosmogramma		fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424209064	Drips//Auntie's Harp	Flying Lotus	Cosmogramma	2a8ed3b0-fdd1-47d7-8f20-eb09c2a6eec3	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424208897	Dance of the Pseudo Nymph	Flying Lotus	Cosmogramma	50f0eb25-9d97-4055-afff-c8116055e069	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424208680	Recoiled	Flying Lotus	Cosmogramma	9125728e-d222-445c-91ee-e19cc06dbec9	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424208563	German Haircut	Flying Lotus	Cosmogramma	3e0d91cd-d0af-4566-8f24-bd19501c5f45	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424208334	Satelllliiiiiiiteee	Flying Lotus	Cosmogramma	a3b7c67e-cb0a-4f66-9c6d-1e119100ca89	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424208096	Do the Astral Plane	Flying Lotus	Cosmogramma	6d58520a-0674-4d0b-ac83-10553a3554e1	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424207842	Mmmhmm ft.Thundercat	Flying Lotus	Cosmogramma		fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424207670	Arkestry	Flying Lotus	Cosmogramma	5c901b1a-f9e4-4d3b-adf5-2ec46b4ff7e4	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424207495	...And The World Laughs With You ft. Thom Yorke	Flying Lotus	Cosmogramma		fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424207342	Computer Face//Pure Being	Flying Lotus	Cosmogramma		fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424207178	Zodiac Shit	Flying Lotus	Cosmogramma	bc502c3b-7b1c-4e5f-876d-7715be96a0eb	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424207103	Intro//A Cosmic Drama	Flying Lotus	Cosmogramma	405e370d-5795-4999-980d-070c328dfd71	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424206985	Nose Art	Flying Lotus	Cosmogramma	1659c495-5693-4041-b2d8-74c407db7061	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424206851	Pickled!	Flying Lotus	Cosmogramma	16674b86-56c0-4fe0-9034-08b3c8cb8029	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424206779	Clock Catcher	Flying Lotus	Cosmogramma	2f48a54a-a9c6-4944-9d77-d80f19d42052	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	7369257e-2346-4fe6-8810-c92c409d6671
+1424206665	The Protest	Flying Lotus	You're Dead!	0547e202-f645-46d4-9c99-d386cea1c119	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424206559	Your Potential//The Beyond (feat. Niki Randa)	Flying Lotus	You're Dead!		fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424206383	Obligatory Cadence	Flying Lotus	You're Dead!	09bd8dda-a2f1-4932-92b8-8283de1ffe54	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424206272	The Boys Who Died In Their Sleep (feat. Captain Murphy)	Flying Lotus	You're Dead!		fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424206184	Descent Into Madness (feat. Thundercat)	Flying Lotus	You're Dead!		fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424206046	Moment Of Hesitation	Flying Lotus	You're Dead!	cd673c0a-4830-4455-b687-7dac06a020e7	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424205973	Eyes Above	Flying Lotus	You're Dead!	bee6d8ff-50c4-4464-b3d3-0e2bfa8e39f6	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424205868	Ready Err Not	Flying Lotus	You're Dead!	ba75df47-8e4d-4fd7-bc2c-5f0fe00ccdf5	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424205573	Turtles	Flying Lotus	You're Dead!	f4da98b8-eb26-4ce7-99b2-afd5d64a9abe	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424205415	Siren Song (feat. Angel Deradoorian)	Flying Lotus	You're Dead!		fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424156639	Coronus, The Terminator	Flying Lotus	You're Dead!	c4cf5fe3-add8-4fb4-924c-882d99736e21	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424156608	Stirring	Flying Lotus	You're Dead!	4b097f1d-1957-4397-b7ea-cc0787b76d80	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424156419	Turkey Dog Coma	Flying Lotus	You're Dead!	b86cad78-132d-4407-b7fd-66473ddb66c8	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424156273	Dead Man's Tetris (feat. Captain Murphy & Snoop Dogg)	Flying Lotus	You're Dead!	4179f759-f37e-45c2-8459-386f8ec40214	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424156039	Never Catch Me (feat. Kendrick Lamar)	Flying Lotus	You're Dead!		fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424155998	Fkn Dead	Flying Lotus	You're Dead!	d8fd9915-c3ce-4265-b6c2-63aada6b7698	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424155904	Cold Dead	Flying Lotus	You're Dead!	91376e73-1c34-497b-814e-73604674e5d7	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424155582	Tesla	Flying Lotus	You're Dead!	04562018-45d5-45a3-bf14-3bc969dd7405	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424155499	Theme	Flying Lotus	You're Dead!	a094ee7d-b7a1-4b95-b7f2-02c3be1e0c0d	fc7376fe-1a6f-4414-b4a7-83f50ed59c92	e04e7abf-d541-4180-86d1-17aa2926ed31
+1424155224	Worsening	Baths	Obsidian	533895c4-73f8-42ed-bde9-8ac9d48db929	84a5c934-8318-4080-8606-32b80e1b054a	f5aa8083-768e-495b-b7ce-0918cc9ff5d3
+1424155074	Apologetic Shoulder Blades	Baths	Cerulean	377d4010-1a14-4438-a75f-40ec61e5ad12	84a5c934-8318-4080-8606-32b80e1b054a	5ddd6650-d435-447d-8679-98a63ddaf637
+1424154808	Worsening	Baths	Obsidian	533895c4-73f8-42ed-bde9-8ac9d48db929	84a5c934-8318-4080-8606-32b80e1b054a	f5aa8083-768e-495b-b7ce-0918cc9ff5d3
+1424154478	Ocean Death	Baths	Ocean Death		84a5c934-8318-4080-8606-32b80e1b054a	56ce8556-c0f9-4d8d-85a6-d873e9d4cec1
+1424153845	Rafting Starlit Everglades	Baths	Cerulean	17394eac-5c3f-49d0-a2cd-6569eeb2ea7d	84a5c934-8318-4080-8606-32b80e1b054a	5ddd6650-d435-447d-8679-98a63ddaf637
+1424153647	♥	Baths	Cerulean	351fd8bd-3e0e-4098-808e-cd568c2ca3e2	84a5c934-8318-4080-8606-32b80e1b054a	5ddd6650-d435-447d-8679-98a63ddaf637
+1424153426	Voyeur	Baths	Ocean Death		84a5c934-8318-4080-8606-32b80e1b054a	56ce8556-c0f9-4d8d-85a6-d873e9d4cec1
+1424153221	Maximalist	Baths	Cerulean	2c1a8ec8-0b30-4037-9af7-7e952b0a8b24	84a5c934-8318-4080-8606-32b80e1b054a	5ddd6650-d435-447d-8679-98a63ddaf637
+1424152833	Lovely Bloodflow	Baths	Cerulean	dee42d61-3d28-48f0-8a59-58efda853668	84a5c934-8318-4080-8606-32b80e1b054a	5ddd6650-d435-447d-8679-98a63ddaf637
+1424152578	It All Feels Right	Washed Out	Paracosm	a1d56aad-ccdc-4916-ae08-6e0a093fd32d	74a30f2a-dae6-4e99-8a75-cb0f93b31aa6	c970e104-08b3-4de9-83d2-758035aff77a
+1424152343	Don't Give Up	Washed Out	Paracosm	d6d8d0ba-b43d-4f7a-92d8-dde4b226cef9	74a30f2a-dae6-4e99-8a75-cb0f93b31aa6	c970e104-08b3-4de9-83d2-758035aff77a
 1424152036	Great Escape	Washed Out	Paracosm	98d370a7-256e-44fe-8245-c116c34e51ca	74a30f2a-dae6-4e99-8a75-cb0f93b31aa6	c970e104-08b3-4de9-83d2-758035aff77a
 1424151704	Hours - Teen Daze Remix	Tycho	Dive (Radio Edit)		6d56f5cf-211b-418a-ace2-2983c33f530f	
 1424151410	Wonderland (Blockhead Remix)	Little People	We Are but Hunks of Wood Remixes		0ab53372-ba70-4e7b-814b-12bc35fe4719	
@@ -282,10 +375,10 @@
 1423541982	Squeeze Box	The Who	Greatest Hits	cccffb8f-4067-4dd9-822c-1109bfa01548	9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa	55265199-08f9-3e6a-8532-409b6caf6c5e
 1423541785	Hot Burrito #2	The Flying Burrito Brothers	Hot Burritos! The Flying Burrito Brothers Anthology (1969 - 1972)	9c58c131-86f1-43e2-8521-078bb95731a0	b4375768-3c8b-46e7-b578-c920ccfe725f	
 1423541546	I Shall Sing - Take 7	Van Morrison	Moondance (Deluxe Edition)		a41ac10f-0a56-4672-9161-b83f9b223559	
-1423541370	Promised Land	Elvis Presley	Elvis At Stax (Highlights)	8baee477-dd9b-4c76-85eb-c91ad583c8db	01809552-4f87-45b0-afff-2c6f0730a3be	
+1423541370	Promised Land	Elvis Presley	Elvis At Stax (Highlights)	996ee036-789c-41d3-bece-e81196769424	01809552-4f87-45b0-afff-2c6f0730a3be	
 1423541155	Spanish Stroll	Mink DeVille	Late Night Tales: Fatboy Slim	daa58d30-281c-4873-a951-7b5c80c484fb	1c2938ae-37df-44a7-8630-be2cb1d357e0	
 1423540915	Roll With It	Oasis	[What's The Story] Morning Glory	ee99b9fb-389a-4176-ace9-ae6b31f958cd	39ab1aed-75e0-4140-bd47-540276886b60	
-1423540726	2000 Man	The Rolling Stones	Their Satanic Majesties Request	2efff527-7f26-43fc-ab22-6ab7e9faa54b	b071f9fa-14b0-4217-8e97-eb41da73f598	595c4cb6-8246-4a56-a1b9-fe5807565af6
+1423540726	2000 Man	The Rolling Stones	Their Satanic Majesties Request	2efff527-7f26-43fc-ab22-6ab7e9faa54b	b071f9fa-14b0-4217-8e97-eb41da73f598	8191cf54-f900-48e6-be8f-0b7459a86f11
 1423540503	Colorful Revolution	The Redwalls	Universal Blues	da30a4eb-57cc-4a4d-abab-037fa96f8e47	397bdd61-95b9-44e1-90aa-ff27e6bc28cf	7d718271-b2ba-4b63-b962-868045449717
 1423540250	Wait Up For You	The Belle Game	Wait Up For You		8d94ec39-ac99-46dd-9554-9c130f4f3d21	
 1423539958	One of These Nights	Eagles	One Of These Nights (Remastered)	1a1aebac-14a8-4c48-aade-7d420127df7d	c7fe8416-6a18-41dd-b636-3827503c34ea	
@@ -593,7 +686,7 @@
 1423013657	Killin' Me - Jan Driver Remix	Timo Maas	Dance Department # 1 - Summer Edition		71348eeb-0c15-4718-b0ca-5775f78ad5f8	
 1423013308	To Get Down - Radio Edit	Timo Maas	Loud		71348eeb-0c15-4718-b0ca-5775f78ad5f8	65059514-baf1-4de3-aea0-665951895f03
 1423013107	Come as You Are	Nirvana	Nevermind (Remastered)	d2c2b477-8a68-4b98-85ce-d49f11c83d1e	5b11f4ce-a62d-471e-81fc-a69a8278c7da	
-1423012805	Smells Like Teen Spirit	Nirvana	Nevermind (Remastered)	d48936d0-8943-4e4c-b1be-7836abb5376a	5b11f4ce-a62d-471e-81fc-a69a8278c7da	
+1423012805	Smells Like Teen Spirit	Nirvana	Nevermind (Remastered)	a3b43c16-72b4-44eb-925b-91f6e65e6d5f	5b11f4ce-a62d-471e-81fc-a69a8278c7da	
 1423012529	1979	The Smashing Pumpkins	Mellon Collie and the Infinite Sadness (2012 - Remaster)	1a1b643f-545f-4125-907a-9e9b671b0da7	2b42ec56-6785-4ed8-b3cb-190f750111bb	
 1423012315	Global Concepts	Robert DeLong	Global Concepts - EP	be34cb91-7e12-4640-a32b-aff2d8448675	ccac6c50-ead7-4cd1-a025-379fbb13f0d9	
 1423012120	Late	Teen Daze	All of Us, Together	f6002beb-967b-4326-acfd-7e8ae20b1406	6ae38268-01a7-413b-8827-80dab10794c9	31f26419-44be-4653-a152-e4b8dd9a9ec2
@@ -864,7 +957,7 @@
 1422646684	Pilot Can at the Queer of God	The Flaming Lips	Transmissions From the Satellite Heart	1f04b225-6be6-42e3-a827-d0b5609709e2	1f43d76f-8edf-44f6-aaf1-b65f05ad9402	57437410-f847-43c5-bf04-64f02973ec0e
 1422646404	Turn It On	The Flaming Lips	Transmissions From the Satellite Heart	0e240b70-d8ee-4f88-b9f0-b47210a5f580	1f43d76f-8edf-44f6-aaf1-b65f05ad9402	57437410-f847-43c5-bf04-64f02973ec0e
 1422646270	Connection	The Rolling Stones	Between the Buttons	ebe05c53-e6ab-4d94-a2ec-c7b2431e8220	b071f9fa-14b0-4217-8e97-eb41da73f598	46cb1fa8-6f6b-3230-bc0a-a6eb772151b8
-1422645914	2000 Man	The Rolling Stones	Their Satanic Majesties Request	2efff527-7f26-43fc-ab22-6ab7e9faa54b	b071f9fa-14b0-4217-8e97-eb41da73f598	595c4cb6-8246-4a56-a1b9-fe5807565af6
+1422645914	2000 Man	The Rolling Stones	Their Satanic Majesties Request	2efff527-7f26-43fc-ab22-6ab7e9faa54b	b071f9fa-14b0-4217-8e97-eb41da73f598	8191cf54-f900-48e6-be8f-0b7459a86f11
 1422645425	Heroin	The Velvet Underground	The Velvet Underground & Nico 45th Anniversary (Super Deluxe Edition)	01dd926e-5fdc-4256-b6bc-1f38aa168016	94b0fb9d-a066-4823-b2ec-af1d324bcfcf	
 1422645130	My My, Hey Hey (Out of the Blue)	Neil Young & Crazy Horse	Rust Never Sleeps	5c097147-44c3-4a16-9cb7-fe106774c6b7	0f3515b0-75c9-46c9-b26c-4cd05d26eae7	c5b00a6e-48e0-4eb3-b3c7-93a532f97554
 1422601332	Stagger	Underworld	Second Toughest in the Infants	5510e6dc-80f9-4ef2-8a50-5334ed5a2fff	ba2f4f3b-0293-4bc8-bb94-2f73b5207343	9d7c19f4-82f3-3093-9b0d-05a29d75404c
@@ -1247,7 +1340,7 @@
 1421973975	I Will Survive	Cake	Fashion Nugget	f8eadc47-b6bf-4f09-bc66-c7504ccc9fdc	e78260a0-bdce-4348-9542-cfad7b152cd8	c3907d99-95bd-4885-ace8-d5c9b948b8f7
 1421973816	I Just Threw Out the Love of My Dreams	Weezer	Pinkerton - Deluxe Edition	0def5e48-4ec3-4960-bf82-a7c36186e56f	6fe07aa5-fec0-4eca-a456-f29bff451b04	
 1421973558	Falling	HAIM	Days Are Gone	371a5066-c59e-4763-b33c-35e1f2564c28	6da01dec-d03c-492f-8f22-3969ea340888	543b1a1c-8d4c-45f4-9cff-418c6a7f27dc
-1421973321	Midnight Sun	Isaac Delusion	Midnight Sun	ba260751-221c-4cce-84a2-ff2a88852829	d6cce8f3-abd5-4e39-89b9-ab10cf813540	89193a27-1047-496d-8074-e39b8d90b265
+1421973321	Midnight Sun	Isaac Delusion	Midnight Sun	ab90c92e-7323-44b2-aa69-6a934ae39576	d6cce8f3-abd5-4e39-89b9-ab10cf813540	89193a27-1047-496d-8074-e39b8d90b265
 1421973146	Darlin' You're Sweet	Wise Blood	These Wings	fe601426-6298-4429-b08d-0bf734843074	94d958bf-8427-4657-9493-730336042705	4d362ae4-15e9-419e-90ae-995d632efba4
 1421972834	North Circular	Real Lies	North Circular / Dab Housing		a7149e42-5da9-4190-bbf0-046c38726531	
 1421972612	For Emma	Vitamin String Quartet	Vitamin String Quartet Performs Bon Iver		2ea5a6cf-bfbe-48f0-a1ef-28fac39cddd7	
@@ -1372,7 +1465,7 @@
 1421771375	Brothers	Tanlines	Mixed Emotions	7ef14349-ccef-40f9-8a7e-6f5f1223453f	1828f695-763c-4194-9b16-44c82bb0f9d1	cf3a58c0-cd48-4713-89f6-3d2d3a565304
 1421771110	Perfect Medicine	Eyedea	Perfect Medicine		e177a3eb-7fe5-4e4a-901b-e028d5a58245	
 1421770925	Step by Step	Oliver Hart	The Many Faces of Oliver Hart	5f9be377-76eb-47e2-83bc-b5e74f0210cc	acb9d0fc-a305-4c5d-b7a1-47211c254d79	
-1421770611	Wind of Change	Scorpions	Deadly Sting: The Mercury Years	4d19ef91-f4a6-4cf7-8167-f8053eb85edc	5dc3d829-9131-4732-839a-432c9cd35c38	0aad1e9a-033c-4531-8467-c15ce931643b
+1421770611	Wind of Change	Scorpions	Deadly Sting: The Mercury Years	0149544b-f020-447f-87a4-f235a106e9e8	5dc3d829-9131-4732-839a-432c9cd35c38	0aad1e9a-033c-4531-8467-c15ce931643b
 1421770345	Amor Fati	Washed Out	Within and Without	98838361-ebf6-4e47-b42c-fd6e48d2583e	74a30f2a-dae6-4e99-8a75-cb0f93b31aa6	9e944b69-8e75-47f7-8d85-1a2584bf3f7c
 1421770146	Aminals	Baths	Cerulean	78556b84-c7b4-4a90-ba0f-9b79de3fbf79	84a5c934-8318-4080-8606-32b80e1b054a	5ddd6650-d435-447d-8679-98a63ddaf637
 1421769864	You Can't Go Home Again - Radio Edit	DJ Shadow	Reconstructed : The Best Of DJ Shadow		efa2c11a-1a35-4b60-bc1b-66d37de88511	
@@ -1473,7 +1566,7 @@
 1421261098	5 Pound Job	Flowrian	5 Pound Job & Erase, Cut & Merge		744e13e1-3090-438f-9f04-106b26e9f0d7	
 1421260803	Sendai Song	Logistics	Fear Not	bda6bae4-335e-4b5f-99db-e4c44d04ec1c	49dca5fc-30b2-46be-93bd-033c53425e07	3def9f28-2269-4ccc-bfcf-6c2f9f08ba15
 1421260445	Survival of the Fittest	Utah Jazz	Moodswings 2	363103c0-9a5d-43c5-813d-15cb3321428f	87f3e4dc-3947-487d-a579-0681168585d2	
-1421260131	Wind of Change	Scorpions	Deadly Sting: The Mercury Years	4d19ef91-f4a6-4cf7-8167-f8053eb85edc	5dc3d829-9131-4732-839a-432c9cd35c38	0aad1e9a-033c-4531-8467-c15ce931643b
+1421260131	Wind of Change	Scorpions	Deadly Sting: The Mercury Years	0149544b-f020-447f-87a4-f235a106e9e8	5dc3d829-9131-4732-839a-432c9cd35c38	0aad1e9a-033c-4531-8467-c15ce931643b
 1421259873	Amor Fati	Washed Out	Within and Without	98838361-ebf6-4e47-b42c-fd6e48d2583e	74a30f2a-dae6-4e99-8a75-cb0f93b31aa6	9e944b69-8e75-47f7-8d85-1a2584bf3f7c
 1421259638	Aminals	Baths	Cerulean	78556b84-c7b4-4a90-ba0f-9b79de3fbf79	84a5c934-8318-4080-8606-32b80e1b054a	5ddd6650-d435-447d-8679-98a63ddaf637
 1421259389	You Can't Go Home Again - Radio Edit	DJ Shadow	Reconstructed : The Best Of DJ Shadow		efa2c11a-1a35-4b60-bc1b-66d37de88511	
@@ -1604,11 +1697,11 @@
 1420224897	What You Know	Two Door Cinema Club	Tourist History	94870efc-d70e-46b8-aba2-296708455b46	6f1de078-6684-4792-820d-2ffad64c15ed	76d0d68c-8077-4cfa-b709-9e1d1b733759
 1420224654	The Set Up	Favored Nations	The Music of Grand Theft Auto V, Vol. 1: Original Music		b5758677-1bdd-49f4-9ea8-9f90c231b5b3	
 1420224446	Don't Come Close	Yeasayer	The Music of Grand Theft Auto V, Vol. 1: Original Music	0f1e337a-a597-466c-be2b-887f144cb8c2	3feba7fa-3837-424a-b4f1-0077d217f569	
-1420224131	Wind of Change	Scorpions	Deadly Sting: The Mercury Years	4d19ef91-f4a6-4cf7-8167-f8053eb85edc	5dc3d829-9131-4732-839a-432c9cd35c38	0aad1e9a-033c-4531-8467-c15ce931643b
+1420224131	Wind of Change	Scorpions	Deadly Sting: The Mercury Years	0149544b-f020-447f-87a4-f235a106e9e8	5dc3d829-9131-4732-839a-432c9cd35c38	0aad1e9a-033c-4531-8467-c15ce931643b
 1420223844	Perfect Medicine	Eyedea	Perfect Medicine		e177a3eb-7fe5-4e4a-901b-e028d5a58245	
 1420223559	Coaches	Oliver Hart	The Many Faces of Oliver Hart		acb9d0fc-a305-4c5d-b7a1-47211c254d79	
 1420165214	Step by Step	Oliver Hart	The Many Faces of Oliver Hart	5f9be377-76eb-47e2-83bc-b5e74f0210cc	acb9d0fc-a305-4c5d-b7a1-47211c254d79	
-1420164883	Wind of Change	Scorpions	Deadly Sting: The Mercury Years	4d19ef91-f4a6-4cf7-8167-f8053eb85edc	5dc3d829-9131-4732-839a-432c9cd35c38	0aad1e9a-033c-4531-8467-c15ce931643b
+1420164883	Wind of Change	Scorpions	Deadly Sting: The Mercury Years	0149544b-f020-447f-87a4-f235a106e9e8	5dc3d829-9131-4732-839a-432c9cd35c38	0aad1e9a-033c-4531-8467-c15ce931643b
 1420143657	Amor Fati	Washed Out	Within and Without	98838361-ebf6-4e47-b42c-fd6e48d2583e	74a30f2a-dae6-4e99-8a75-cb0f93b31aa6	9e944b69-8e75-47f7-8d85-1a2584bf3f7c
 1420143422	Despicable Dogs	Small Black	Small Black EP	7bc204a2-fe9e-46b5-8bc8-c95e1dec9722	94c9f694-21b6-4b24-9722-4ea18f75f8e1	c0872afa-87f9-4272-a5c2-2f839b6b0793
 1420090830	Just Don't Give a Fuck	Eminem	The Slim Shady LP	fdd92adc-28b4-4b87-a018-89277f6fb9df	b95ce3ff-3d05-4e87-9e01-c97b66af13d4	a58bee4e-2206-4345-bf3f-4ff2072c0d70
